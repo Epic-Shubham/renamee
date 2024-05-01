@@ -1,10 +1,4 @@
-<img src="https://graph.org/file/4b306f4b15c23a8f22e58.jpg" alt="logo" target="/blank">
 
-<h1 align="center">
- <b><a href="https://t.me/autorenamexbot" target="/blank"> Auto Rename Bot </a></>
-</h1>
-
-<p align="center">🤍 Thanks for Being Here 🤍</p>
 
 
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
